@@ -1,8 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.sunlifetest.app",
-    "sha256_cert_fingerprints":
-    ["DB:AE:BD:50:7C:39:E9:8C:66:35:D3:E5:5D:17:4A:C0:01:49:F1:66:59:B4:72:2A:AA:9F:47:80:DD:04:AD:72"]
-  }
